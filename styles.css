@@ -1,15 +1,12 @@
 h1 {
     font-family: 'Carter One', Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    }
+    text-align: center;    
+}
 body {
     background-color: rgba(25, 71, 101, 0.946);
     color: beige;
     font-size: x-large;
     font-family: Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-}
-
-h1 {
-    text-align: center;
 }
 
 a {
